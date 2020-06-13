@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 
 if [ -f /etc/nginx/sites-enabled/default ]; then
   sudo rm /etc/nginx/sites-enabled/default
